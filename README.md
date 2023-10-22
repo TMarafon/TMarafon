@@ -1,18 +1,49 @@
-### Hi there 👋
+# Hi there, I'm Thiago 👋 !
 
-## My Tech Skills
-()
-<!--
-**TMarafon/TMarafon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a hands-on startup CTO and former Software Development Manager.
 
-Here are some ideas to get you started:
+I’m currently working on Generative AI and RAG.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here's an overview of my work in the last years:
+
+<p align="center">
+  <img src="https://github.com/TMarafon/TMarafon/blob/main/img/tech-skills.png?raw=true" alt="CodersRank"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/TMarafon/TMarafon/blob/main/img/languages.jpg?raw=true" alt="CodersRank"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/TMarafon/TMarafon/blob/main/img/tech-cloud.png?raw=true" alt="CodersRank"/>
+</p>
+
+---
+
+<div align="center">
+    Connect with me:
+</div>
+
+<br />
+
+<div align="center">
+    <a href="mailto:tmarafon@gmail.com">
+        <img src="https://github.com/TMarafon/TMarafon/blob/main/icons/email.svg" height="20" alt="">
+    </a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/thiagomarafon/">
+        <img src="https://github.com/TMarafon/TMarafon/blob/main/icons/linkedin.svg" height="20" alt="">
+    </a>
+    &nbsp;
+    <a href="https://github.com/tmarafon">
+        <img src="https://github.com/TMarafon/TMarafon/blob/main/icons/github.jpg" height="20" alt="">
+    </a>
+    &nbsp;
+    <a href="https://stackoverflow.com/users/9004490/marafon-thiago">
+        <img src="https://github.com/TMarafon/TMarafon/blob/main/icons/stackoverflow.svg" height="20" alt="">
+    </a>
+    &nbsp;
+    <a href="https://profile.codersrank.io/user/tmarafon/">
+        <img src="https://github.com/TMarafon/TMarafon/blob/main/icons/codersrank.svg" height="20" alt="">
+    </a>
+</div>
