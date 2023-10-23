@@ -2,7 +2,7 @@
 
 I'm a hands-on startup CTO and former Software Development Manager.
 
-I’m currently working on Generative AI and RAG.
+I’m currently working on LLMs and RAG.
 
 Here's an overview of my work in the last years:
 
