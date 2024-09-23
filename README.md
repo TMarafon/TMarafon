@@ -4,29 +4,6 @@ I'm a hands-on startup CTO and former Software Development Manager.
 
 I’m currently working on projects related to LLMs and RAG.
 
-Here's an overview of my work in the last years:
-
-<br />
-<br />
-
-<p align="center">
-  <img src="https://github.com/TMarafon/TMarafon/blob/main/img/tech-skills.png?raw=true" alt="CodersRank"/>
-</p>
-
-<br />
-
-<p align="center">
-  <img src="https://github.com/TMarafon/TMarafon/blob/main/img/languages.jpg?raw=true" alt="CodersRank"/>
-</p>
-
-<br />
-
-<p align="center">
-  <img src="https://github.com/TMarafon/TMarafon/blob/main/img/tech-cloud.png?raw=true" alt="CodersRank"/>
-</p>
-
----
-
 <div align="center">
     Connect with me:
 </div>
